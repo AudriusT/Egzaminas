@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2970e9ea-1377-41cf-b04d-925a5d58be64" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/Design Assets/Shards_Dashboard_Lite_UI_Kit_1.1.0.sketch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/._Design Assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/._DesignRevision.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/._HTML" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/._LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/Design Assets/._Shards_Dashboard_Lite_UI_Kit_1.1.0.sketch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/._images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/._scripts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/._styles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/._avatars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/._content-management" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/avatars/._0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/avatars/._1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/avatars/._2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/avatars/._3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._10.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._11.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._12.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._13.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._14.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._15.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._16.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._5.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._6.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._7.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._8.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/content-management/._9.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/._app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/._accents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/._scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/._accent-variations" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/._blocks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/._components" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/._plugins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/._templates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/._utilities" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/avatars/0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/avatars/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/avatars/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/avatars/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/10.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/11.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/12.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/13.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/14.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/15.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/16.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/5.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/6.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/7.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/8.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/content-management/9.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env.example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.styleci.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/artisan" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/filesystems.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/hashing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/logging.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/queue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/services.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/DesignRevision.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/._shards-dashboards-logo-danger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/._shards-dashboards-logo-info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/._shards-dashboards-logo-secondary.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/._shards-dashboards-logo-success.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/._shards-dashboards-logo-warning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/images/._shards-dashboards-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/._extras.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/app/._app-blog-new-post.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/app/._app-blog-new-post.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/app/._app-blog-overview.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/app/._app-blog-overview.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/app/._app-components-overview.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/scripts/app/._app-components-overview.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/._extras.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/._shards-dashboards.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/._shards-dashboards.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._danger.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._danger.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._info.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._info.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._secondary.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._secondary.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._success.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._success.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._warning.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/accents/._warning.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__button-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__custom-forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__custom-sliders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__overrides.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/.__variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/._shards-dashboards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/accent-variations/._danger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/accent-variations/._info.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/accent-variations/._secondary.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/accent-variations/._success.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/accent-variations/._warning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/blocks/.__main-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/blocks/.__main-footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/blocks/.__main-navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/blocks/.__main-sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/blocks/.__page-header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/components/.__card-post.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/components/.__error.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/plugins/.__quill.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/templates/.__blog-add-new-post.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/templates/.__blog-overview.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/templates/.__common.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/utilities/.__borders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/utilities/.__general.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/__MACOSX/HTML/styles/scss/utilities/.__text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/sass/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/Welcome.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/add-new-post.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/components-blog-posts.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/errors.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/form-components.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/shards-dashboards-logo-danger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/shards-dashboards-logo-info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/shards-dashboards-logo-secondary.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/shards-dashboards-logo-success.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/shards-dashboards-logo-warning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/images/shards-dashboards-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/app/app-blog-new-post.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/app/app-blog-new-post.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/app/app-blog-overview.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/app/app-blog-overview.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/app/app-components-overview.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/app/app-components-overview.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/extras.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/shards-dashboards.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/shards-dashboards.1.1.0.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/scripts/shards-dashboards.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/danger.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/danger.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/info.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/info.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/secondary.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/secondary.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/success.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/success.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/warning.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/accents/warning.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/extras.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_alert.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_badge.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_button-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_custom-forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_custom-sliders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_images.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_input-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_overrides.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_reboot.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/accent-variations/danger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/accent-variations/info.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/accent-variations/secondary.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/accent-variations/success.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/accent-variations/warning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/blocks/_main-content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/blocks/_main-footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/blocks/_main-navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/blocks/_main-sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/blocks/_page-header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/components/_card-post.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/components/_error.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/plugins/_quill.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/shards-dashboards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/templates/_blog-add-new-post.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/templates/_blog-overview.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/templates/_common.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/utilities/_borders.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/utilities/_general.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/scss/utilities/_text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/shards-dashboards.1.1.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/styles/shards-dashboards.1.1.0.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/tables.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/user-profile-lite.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/channels.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/console.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/web.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/app/app-blog-new-post.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/app/app-blog-new-post.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/app/app-blog-overview.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/app/app-blog-overview.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/app/app-components-overview.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/app/app-components-overview.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/extras.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/shards-dashboards.1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/shards-dashboards.1.1.0.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/shards-dashboards.1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/cache/data/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/testing/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage/logs/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.mix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="34" />
+    <option name="y" value="30" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2970e9ea-1377-41cf-b04d-925a5d58be64" name="Default" comment="" />
+      <created>1560951129639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560951129639</updated>
+      <workItem from="1560951131003" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="34" y="30" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
